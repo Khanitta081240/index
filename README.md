@@ -25,3 +25,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 "# index" 
 "# index" 
 "# index" 
+"# index" 
