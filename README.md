@@ -24,3 +24,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 "# work001" 
 "# index" 
 "# index" 
+"# index" 
